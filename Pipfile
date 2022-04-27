@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 django = "==4.0.3"
 pillow = "==9.1.0"
+isort = "*"
 
 [dev-packages]
 
