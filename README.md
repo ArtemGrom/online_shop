@@ -6,3 +6,4 @@ This is a prototipe of a online shop.
 - update quantity in the cart;
 - display price and quantity about all products in the cart;
 - registration of orders;
+- add celery to the app;
